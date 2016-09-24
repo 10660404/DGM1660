@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+Logan
+
+I'm Logan, I enjoy animation, videogames, and writing
